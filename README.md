@@ -1,4 +1,4 @@
-# Curso Flutter Udemy -  Fernadndo Herrera
+# Curso Flutter Udemy -  Fernando Herrera
 
 A new Flutter project.
 
